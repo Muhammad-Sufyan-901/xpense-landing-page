@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply font-primary text-lg;
+    @apply font-primary text-lg scroll-smooth;
   }
   h1,
   h2,
